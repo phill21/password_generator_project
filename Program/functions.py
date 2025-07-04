@@ -1,10 +1,6 @@
 import random
 import string
 
-#Contador de caracteres. Validar se parametros de senha ultrapassam o limite de digitos da senha
-def count_char():
-    ...
-
 def char_generate_pass(param1):
     # Utilizar esse caso queira remover acentos e caracteres complexos
     # char_pass = random.sample(['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '_', '-', '.', '?', '+'], k=param1)
